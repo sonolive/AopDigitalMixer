@@ -1,0 +1,3544 @@
+Cell Name         = CHANNEL 4.CHANNEL DC FILTER
+Parameter Name    = DCBlockAlgDblPrecS3004pole
+Parameter Address = 30
+Parameter Value   = 0.999899983406067
+Parameter Data :
+0x00, 0xFF, 0xF9, 0x72, 
+
+
+
+Cell Name         = CHANNEL 4.CHANNEL GAIN
+Parameter Name    = GainAlgNS145X32gain
+Parameter Address = 644
+Parameter Value   = 1
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 4.CHANNEL AUX1 SEND FADER
+Parameter Name    = GainAlgNS145X33gain
+Parameter Address = 718
+Parameter Value   = 0.000100016593933105
+Parameter Data :
+0x00, 0x00, 0x06, 0x8E, 
+
+
+
+Cell Name         = CHANNEL 4.CHANNEL AUX2 SEND FADER
+Parameter Name    = GainAlgNS145X34gain
+Parameter Address = 717
+Parameter Value   = 0.000100016593933105
+Parameter Data :
+0x00, 0x00, 0x06, 0x8E, 
+
+
+
+Cell Name         = CHANNEL 4.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3006TCONST
+Parameter Address = 40
+Parameter Value   = 0.00240141153335571
+Parameter Data :
+0x00 ,	0x00 ,	0x9D ,	0x61 ,	
+
+
+
+Cell Name         = CHANNEL 4.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3006hold
+Parameter Address = 41
+Parameter Value   = 480
+Parameter Data :
+0x00 ,	0x00 ,	0x01 ,	0xE0 ,	
+
+
+
+Cell Name         = CHANNEL 4.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3006decay
+Parameter Address = 42
+Parameter Value   = 0.000217020511627197
+Parameter Data :
+0x00 ,	0x00 ,	0x0E ,	0x39 ,	
+
+
+
+Cell Name         = CHANNEL 4.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3006X
+Parameter Address = 50
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 4.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3006X_lo
+Parameter Address = 51
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 4.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3006LinX
+Parameter Address = 52
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 4.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3006LinX_lo
+Parameter Address = 53
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 4.CHANNEL PAN LEFT FADER
+Parameter Name    = GainAlgNS145X35gain
+Parameter Address = 693
+Parameter Value   = 1
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 4.CHANNEL PAN RIGHT FADER
+Parameter Name    = GainAlgNS145X36gain
+Parameter Address = 692
+Parameter Value   = 1
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 4.CHANNEL COMP
+Parameter Name    = MultiChanRMSNoPostGainS300FullRangeExpGainAlg4points
+Parameter Address = 196
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x00, 0xCC, 0xD7, 0xCF, 
+0x00, 0x92, 0x9E, 0xAE, 
+0x00, 0x68, 0xF2, 0x16, 
+0x00, 0x4B, 0x1D, 0xDC, 
+0x00, 0x35, 0xC4, 0x1A, 
+0x00, 0x26, 0x7B, 0xE4, 
+0x00, 0x1B, 0x8B, 0xA9, 
+0x00, 0x13, 0x85, 0x1D, 
+0x00, 0x0D, 0xD1, 0xB0, 
+0x00, 0x09, 0xC8, 0x7D, 
+0x00, 0x06, 0xED, 0x0B, 
+0x00, 0x04, 0xE7, 0x38, 
+0x00, 0x03, 0x78, 0xA0, 
+0x00, 0x02, 0x75, 0x1A, 
+0x00, 0x01, 0xBC, 0xD7, 
+
+
+
+Cell Name         = CHANNEL 4.CHANNEL COMP
+Parameter Name    = MultiChanRMSNoPostGainS300FullRangeExpGainAlg4tc
+Parameter Address = 660
+Parameter Value   = 0.00058060884475708
+Parameter Data :
+0x00 ,	0x00 ,	0x26 ,	0x0D ,	
+
+
+
+Cell Name         = CHANNEL 4.CHANNEL COMP
+Parameter Name    = MultiChanRMSNoPostGainS300FullRangeExpGainAlg4hold
+Parameter Address = 661
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 4.CHANNEL COMP
+Parameter Name    = MultiChanRMSNoPostGainS300FullRangeExpGainAlg4decay
+Parameter Address = 662
+Parameter Value   = 2.14576721191406E-06
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x24 ,	
+
+
+
+Cell Name         = CHANNEL 4.THRESHOLD FADER
+Parameter Name    = GainAlgNS145X37gain
+Parameter Address = 656
+Parameter Value   = 0.125892519950867
+Parameter Data :
+0x00, 0x20, 0x3A, 0x7E, 
+
+
+
+Cell Name         = CHANNEL 4.COMP ATTENUATION
+Parameter Name    = ReadBackAlgNewSigma3004Value
+Parameter Address = 415
+Parameter Value   = 0
+Parameter Data :
+0x00, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 4.CHANNEL MIX LEVEL FADER
+Parameter Name    = GainAlgNS145X38gain
+Parameter Address = 688
+Parameter Value   = 1
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 4.CHANNEL RVB SEND FADER
+Parameter Name    = GainAlgNS145X39gain
+Parameter Address = 719
+Parameter Value   = 0.000100016593933105
+Parameter Data :
+0x00, 0x00, 0x06, 0x8E, 
+
+
+
+Cell Name         = CHANNEL 4.HIPASS 1
+Parameter Name    = EQS300MultiS7B2_1
+Parameter Address = 96
+Parameter Value   = 0.987920045852661
+Parameter Data :
+0x00 ,	0xFC ,	0xE8 ,	0x54 ,	
+
+
+
+Cell Name         = CHANNEL 4.HIPASS 1
+Parameter Name    = EQS300MultiS7B1_1
+Parameter Address = 97
+Parameter Value   = -1.97584009170532
+Parameter Data :
+0xFE ,	0x06 ,	0x2F ,	0x58 ,	
+
+
+
+Cell Name         = CHANNEL 4.HIPASS 1
+Parameter Name    = EQS300MultiS7B0_1
+Parameter Address = 98
+Parameter Value   = 0.987920045852661
+Parameter Data :
+0x00 ,	0xFC ,	0xE8 ,	0x54 ,	
+
+
+
+Cell Name         = CHANNEL 4.HIPASS 1
+Parameter Name    = EQS300MultiS7A2_1
+Parameter Address = 99
+Parameter Value   = -0.975983142852783
+Parameter Data :
+0xFF ,	0x06 ,	0x25 ,	0xF8 ,	
+
+
+
+Cell Name         = CHANNEL 4.HIPASS 1
+Parameter Name    = EQS300MultiS7A1_1
+Parameter Address = 100
+Parameter Value   = 1.97569704055786
+Parameter Data :
+0x01 ,	0xF9 ,	0xC7 ,	0x48 ,	
+
+
+
+Cell Name         = CHANNEL 4.HIPASS 2
+Parameter Name    = EQS300MultiS8B2_1
+Parameter Address = 116
+Parameter Value   = 0.98940521478653
+Parameter Data :
+0x00 ,	0xFD ,	0x49 ,	0xA9 ,	
+
+
+
+Cell Name         = CHANNEL 4.HIPASS 2
+Parameter Name    = EQS300MultiS8B1_1
+Parameter Address = 117
+Parameter Value   = -1.97881036996841
+Parameter Data :
+0xFE ,	0x05 ,	0x6C ,	0xAF ,	
+
+
+
+Cell Name         = CHANNEL 4.HIPASS 2
+Parameter Name    = EQS300MultiS8B0_1
+Parameter Address = 118
+Parameter Value   = 0.98940521478653
+Parameter Data :
+0x00 ,	0xFD ,	0x49 ,	0xA9 ,	
+
+
+
+Cell Name         = CHANNEL 4.HIPASS 2
+Parameter Name    = EQS300MultiS8A2_1
+Parameter Address = 119
+Parameter Value   = -0.978953659534454
+Parameter Data :
+0xFF ,	0x05 ,	0x63 ,	0x4B ,	
+
+
+
+Cell Name         = CHANNEL 4.HIPASS 2
+Parameter Name    = EQS300MultiS8A1_1
+Parameter Address = 120
+Parameter Value   = 1.97866714000702
+Parameter Data :
+0x01 ,	0xFA ,	0x89 ,	0xEE ,	
+
+
+
+Cell Name         = CHANNEL 4.HIPASS ON/OFF SWITCH
+Parameter Name    = monomuxSigma300ns19index
+Parameter Address = 648
+Parameter Value   = 0
+Parameter Data :
+0x00, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 4.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg4B2_1
+Parameter Address = 136
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 4.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg4B1_1
+Parameter Address = 137
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 4.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg4B0_1
+Parameter Address = 138
+Parameter Value   = 1
+Parameter Data :
+0x01 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 4.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg4A2_1
+Parameter Address = 139
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 4.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg4A1_1
+Parameter Address = 140
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 4.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg4B2_2
+Parameter Address = 141
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 4.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg4B1_2
+Parameter Address = 142
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 4.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg4B0_2
+Parameter Address = 143
+Parameter Value   = 1
+Parameter Data :
+0x01 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 4.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg4A2_2
+Parameter Address = 144
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 4.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg4A1_2
+Parameter Address = 145
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 4.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg4B2_3
+Parameter Address = 146
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 4.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg4B1_3
+Parameter Address = 147
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 4.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg4B0_3
+Parameter Address = 148
+Parameter Value   = 1
+Parameter Data :
+0x01 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 4.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg4A2_3
+Parameter Address = 149
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 4.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg4A1_3
+Parameter Address = 150
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 4.EQ ON/OFF SWITCH
+Parameter Name    = monomuxSigma300ns20index
+Parameter Address = 652
+Parameter Value   = 1
+Parameter Data :
+0x00, 0x00, 0x00, 0x01, 
+
+
+
+Cell Name         = CHANNEL 4.CHANNEL FX2 SEND FADER
+Parameter Name    = GainAlgNS145X40gain
+Parameter Address = 716
+Parameter Value   = 0.000100016593933105
+Parameter Data :
+0x00, 0x00, 0x06, 0x8E, 
+
+
+
+Cell Name         = CHANNEL 4.MUTE SWITCH
+Parameter Name    = MuteHWSlewAlgADAU145X4mute
+Parameter Address = 414
+Parameter Value   = 1
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 4.MUTE SWITCH
+Parameter Name    = MuteHWSlewAlgADAU145X4slew_mode
+Parameter Address = 413
+Parameter Value   = 8330
+Parameter Data :
+0x00, 0x00, 0x20, 0x8A, 
+
+
+
+Cell Name         = CHANNEL 4.AUX1 PRE/POST SWITCH
+Parameter Name    = monomuxSigma300ns21index
+Parameter Address = 702
+Parameter Value   = 0
+Parameter Data :
+0x00, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 4.AUX2 PRE/POST SWITCH
+Parameter Name    = monomuxSigma300ns22index
+Parameter Address = 701
+Parameter Value   = 0
+Parameter Data :
+0x00, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 4.RVB PRE/POST SWITCH
+Parameter Name    = monomuxSigma300ns23index
+Parameter Address = 700
+Parameter Value   = 1
+Parameter Data :
+0x00, 0x00, 0x00, 0x01, 
+
+
+
+Cell Name         = CHANNEL 4.FX2  PRE/POST SWITCH
+Parameter Name    = monomuxSigma300ns24index
+Parameter Address = 703
+Parameter Value   = 1
+Parameter Data :
+0x00, 0x00, 0x00, 0x01, 
+
+
+
+Cell Name         = CHANNEL 3.CHANNEL DC FILTER
+Parameter Name    = DCBlockAlgDblPrecS3003pole
+Parameter Address = 33
+Parameter Value   = 0.999899983406067
+Parameter Data :
+0x00, 0xFF, 0xF9, 0x72, 
+
+
+
+Cell Name         = CHANNEL 3.CHANNEL GAIN
+Parameter Name    = GainAlgNS145X23gain
+Parameter Address = 645
+Parameter Value   = 1
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 3.CHANNEL AUX1 SEND FADER
+Parameter Name    = GainAlgNS145X24gain
+Parameter Address = 723
+Parameter Value   = 0.000100016593933105
+Parameter Data :
+0x00, 0x00, 0x06, 0x8E, 
+
+
+
+Cell Name         = CHANNEL 3.CHANNEL AUX2 SEND FADER
+Parameter Name    = GainAlgNS145X25gain
+Parameter Address = 720
+Parameter Value   = 0.000100016593933105
+Parameter Data :
+0x00, 0x00, 0x06, 0x8E, 
+
+
+
+Cell Name         = CHANNEL 3.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3005TCONST
+Parameter Address = 54
+Parameter Value   = 0.00240141153335571
+Parameter Data :
+0x00 ,	0x00 ,	0x9D ,	0x61 ,	
+
+
+
+Cell Name         = CHANNEL 3.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3005hold
+Parameter Address = 55
+Parameter Value   = 480
+Parameter Data :
+0x00 ,	0x00 ,	0x01 ,	0xE0 ,	
+
+
+
+Cell Name         = CHANNEL 3.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3005decay
+Parameter Address = 56
+Parameter Value   = 0.000217020511627197
+Parameter Data :
+0x00 ,	0x00 ,	0x0E ,	0x39 ,	
+
+
+
+Cell Name         = CHANNEL 3.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3005X
+Parameter Address = 64
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 3.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3005X_lo
+Parameter Address = 65
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 3.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3005LinX
+Parameter Address = 66
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 3.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3005LinX_lo
+Parameter Address = 67
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 3.CHANNEL PAN LEFT FADER
+Parameter Name    = GainAlgNS145X26gain
+Parameter Address = 694
+Parameter Value   = 1
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 3.CHANNEL PAN RIGHT FADER
+Parameter Name    = GainAlgNS145X27gain
+Parameter Address = 695
+Parameter Value   = 1
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 3.CHANNEL COMP
+Parameter Name    = MultiChanRMSNoPostGainS300FullRangeExpGainAlg3points
+Parameter Address = 250
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x00, 0xCC, 0xD7, 0xCF, 
+0x00, 0x92, 0x9E, 0xAE, 
+0x00, 0x68, 0xF2, 0x16, 
+0x00, 0x4B, 0x1D, 0xDC, 
+0x00, 0x35, 0xC4, 0x1A, 
+0x00, 0x26, 0x7B, 0xE4, 
+0x00, 0x1B, 0x8B, 0xA9, 
+0x00, 0x13, 0x85, 0x1D, 
+0x00, 0x0D, 0xD1, 0xB0, 
+0x00, 0x09, 0xC8, 0x7D, 
+0x00, 0x06, 0xED, 0x0B, 
+0x00, 0x04, 0xE7, 0x38, 
+0x00, 0x03, 0x78, 0xA0, 
+0x00, 0x02, 0x75, 0x1A, 
+0x00, 0x01, 0xBC, 0xD7, 
+
+
+
+Cell Name         = CHANNEL 3.CHANNEL COMP
+Parameter Name    = MultiChanRMSNoPostGainS300FullRangeExpGainAlg3tc
+Parameter Address = 667
+Parameter Value   = 0.00058060884475708
+Parameter Data :
+0x00 ,	0x00 ,	0x26 ,	0x0D ,	
+
+
+
+Cell Name         = CHANNEL 3.CHANNEL COMP
+Parameter Name    = MultiChanRMSNoPostGainS300FullRangeExpGainAlg3hold
+Parameter Address = 668
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 3.CHANNEL COMP
+Parameter Name    = MultiChanRMSNoPostGainS300FullRangeExpGainAlg3decay
+Parameter Address = 669
+Parameter Value   = 2.14576721191406E-06
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x24 ,	
+
+
+
+Cell Name         = CHANNEL 3.THRESHOLD FADER
+Parameter Name    = GainAlgNS145X28gain
+Parameter Address = 657
+Parameter Value   = 0.125892519950867
+Parameter Data :
+0x00, 0x20, 0x3A, 0x7E, 
+
+
+
+Cell Name         = CHANNEL 3.COMP ATTENUATION
+Parameter Name    = ReadBackAlgNewSigma3003Value
+Parameter Address = 419
+Parameter Value   = 0
+Parameter Data :
+0x00, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 3.CHANNEL MIX LEVEL FADER
+Parameter Name    = GainAlgNS145X29gain
+Parameter Address = 689
+Parameter Value   = 1.25892543792725
+Parameter Data :
+0x01, 0x42, 0x48, 0xF0, 
+
+
+
+Cell Name         = CHANNEL 3.CHANNEL RVB SEND FADER
+Parameter Name    = GainAlgNS145X30gain
+Parameter Address = 721
+Parameter Value   = 0.000100016593933105
+Parameter Data :
+0x00, 0x00, 0x06, 0x8E, 
+
+
+
+Cell Name         = CHANNEL 3.HIPASS 1
+Parameter Name    = EQS300MultiS5B2_1
+Parameter Address = 101
+Parameter Value   = 0.987920045852661
+Parameter Data :
+0x00 ,	0xFC ,	0xE8 ,	0x54 ,	
+
+
+
+Cell Name         = CHANNEL 3.HIPASS 1
+Parameter Name    = EQS300MultiS5B1_1
+Parameter Address = 102
+Parameter Value   = -1.97584009170532
+Parameter Data :
+0xFE ,	0x06 ,	0x2F ,	0x58 ,	
+
+
+
+Cell Name         = CHANNEL 3.HIPASS 1
+Parameter Name    = EQS300MultiS5B0_1
+Parameter Address = 103
+Parameter Value   = 0.987920045852661
+Parameter Data :
+0x00 ,	0xFC ,	0xE8 ,	0x54 ,	
+
+
+
+Cell Name         = CHANNEL 3.HIPASS 1
+Parameter Name    = EQS300MultiS5A2_1
+Parameter Address = 104
+Parameter Value   = -0.975983142852783
+Parameter Data :
+0xFF ,	0x06 ,	0x25 ,	0xF8 ,	
+
+
+
+Cell Name         = CHANNEL 3.HIPASS 1
+Parameter Name    = EQS300MultiS5A1_1
+Parameter Address = 105
+Parameter Value   = 1.97569704055786
+Parameter Data :
+0x01 ,	0xF9 ,	0xC7 ,	0x48 ,	
+
+
+
+Cell Name         = CHANNEL 3.HIPASS 2
+Parameter Name    = EQS300MultiS6B2_1
+Parameter Address = 121
+Parameter Value   = 0.98940521478653
+Parameter Data :
+0x00 ,	0xFD ,	0x49 ,	0xA9 ,	
+
+
+
+Cell Name         = CHANNEL 3.HIPASS 2
+Parameter Name    = EQS300MultiS6B1_1
+Parameter Address = 122
+Parameter Value   = -1.97881036996841
+Parameter Data :
+0xFE ,	0x05 ,	0x6C ,	0xAF ,	
+
+
+
+Cell Name         = CHANNEL 3.HIPASS 2
+Parameter Name    = EQS300MultiS6B0_1
+Parameter Address = 123
+Parameter Value   = 0.98940521478653
+Parameter Data :
+0x00 ,	0xFD ,	0x49 ,	0xA9 ,	
+
+
+
+Cell Name         = CHANNEL 3.HIPASS 2
+Parameter Name    = EQS300MultiS6A2_1
+Parameter Address = 124
+Parameter Value   = -0.978953659534454
+Parameter Data :
+0xFF ,	0x05 ,	0x63 ,	0x4B ,	
+
+
+
+Cell Name         = CHANNEL 3.HIPASS 2
+Parameter Name    = EQS300MultiS6A1_1
+Parameter Address = 125
+Parameter Value   = 1.97866714000702
+Parameter Data :
+0x01 ,	0xFA ,	0x89 ,	0xEE ,	
+
+
+
+Cell Name         = CHANNEL 3.HIPASS ON/OFF SWITCH
+Parameter Name    = monomuxSigma300ns9index
+Parameter Address = 649
+Parameter Value   = 0
+Parameter Data :
+0x00, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 3.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg3B2_1
+Parameter Address = 151
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 3.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg3B1_1
+Parameter Address = 152
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 3.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg3B0_1
+Parameter Address = 153
+Parameter Value   = 1
+Parameter Data :
+0x01 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 3.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg3A2_1
+Parameter Address = 154
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 3.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg3A1_1
+Parameter Address = 155
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 3.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg3B2_2
+Parameter Address = 156
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 3.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg3B1_2
+Parameter Address = 157
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 3.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg3B0_2
+Parameter Address = 158
+Parameter Value   = 1
+Parameter Data :
+0x01 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 3.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg3A2_2
+Parameter Address = 159
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 3.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg3A1_2
+Parameter Address = 160
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 3.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg3B2_3
+Parameter Address = 161
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 3.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg3B1_3
+Parameter Address = 162
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 3.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg3B0_3
+Parameter Address = 163
+Parameter Value   = 1
+Parameter Data :
+0x01 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 3.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg3A2_3
+Parameter Address = 164
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 3.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg3A1_3
+Parameter Address = 165
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 3.EQ ON/OFF SWITCH
+Parameter Name    = monomuxSigma300ns14index
+Parameter Address = 653
+Parameter Value   = 1
+Parameter Data :
+0x00, 0x00, 0x00, 0x01, 
+
+
+
+Cell Name         = CHANNEL 3.CHANNEL FX2 SEND FADER
+Parameter Name    = GainAlgNS145X31gain
+Parameter Address = 722
+Parameter Value   = 0.000100016593933105
+Parameter Data :
+0x00, 0x00, 0x06, 0x8E, 
+
+
+
+Cell Name         = CHANNEL 3.MUTE SWITCH
+Parameter Name    = MuteHWSlewAlgADAU145X2mute
+Parameter Address = 418
+Parameter Value   = 1
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 3.MUTE SWITCH
+Parameter Name    = MuteHWSlewAlgADAU145X2slew_mode
+Parameter Address = 417
+Parameter Value   = 8330
+Parameter Data :
+0x00, 0x00, 0x20, 0x8A, 
+
+
+
+Cell Name         = CHANNEL 3.AUX1 PRE/POST SWITCH
+Parameter Name    = monomuxSigma300ns15index
+Parameter Address = 707
+Parameter Value   = 0
+Parameter Data :
+0x00, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 3.AUX2 PRE/POST SWITCH
+Parameter Name    = monomuxSigma300ns16index
+Parameter Address = 706
+Parameter Value   = 0
+Parameter Data :
+0x00, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 3.RVB PRE/POST SWITCH
+Parameter Name    = monomuxSigma300ns17index
+Parameter Address = 704
+Parameter Value   = 1
+Parameter Data :
+0x00, 0x00, 0x00, 0x01, 
+
+
+
+Cell Name         = CHANNEL 3.FX2  PRE/POST SWITCH
+Parameter Name    = monomuxSigma300ns18index
+Parameter Address = 705
+Parameter Value   = 1
+Parameter Data :
+0x00, 0x00, 0x00, 0x01, 
+
+
+
+Cell Name         = CHANNEL 2.CHANNEL DC FILTER
+Parameter Name    = DCBlockAlgDblPrecS3002pole
+Parameter Address = 36
+Parameter Value   = 0.999899983406067
+Parameter Data :
+0x00, 0xFF, 0xF9, 0x72, 
+
+
+
+Cell Name         = CHANNEL 2.CHANNEL GAIN
+Parameter Name    = GainAlgNS145X14gain
+Parameter Address = 646
+Parameter Value   = 1
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 2.CHANNEL AUX1 SEND FADER
+Parameter Name    = GainAlgNS145X15gain
+Parameter Address = 726
+Parameter Value   = 0.000100016593933105
+Parameter Data :
+0x00, 0x00, 0x06, 0x8E, 
+
+
+
+Cell Name         = CHANNEL 2.CHANNEL AUX2 SEND FADER
+Parameter Name    = GainAlgNS145X16gain
+Parameter Address = 725
+Parameter Value   = 0.000100016593933105
+Parameter Data :
+0x00, 0x00, 0x06, 0x8E, 
+
+
+
+Cell Name         = CHANNEL 2.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3004TCONST
+Parameter Address = 68
+Parameter Value   = 0.00240141153335571
+Parameter Data :
+0x00 ,	0x00 ,	0x9D ,	0x61 ,	
+
+
+
+Cell Name         = CHANNEL 2.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3004hold
+Parameter Address = 69
+Parameter Value   = 480
+Parameter Data :
+0x00 ,	0x00 ,	0x01 ,	0xE0 ,	
+
+
+
+Cell Name         = CHANNEL 2.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3004decay
+Parameter Address = 70
+Parameter Value   = 0.000217020511627197
+Parameter Data :
+0x00 ,	0x00 ,	0x0E ,	0x39 ,	
+
+
+
+Cell Name         = CHANNEL 2.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3004X
+Parameter Address = 78
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 2.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3004X_lo
+Parameter Address = 79
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 2.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3004LinX
+Parameter Address = 80
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 2.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3004LinX_lo
+Parameter Address = 81
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 2.CHANNEL PAN LEFT FADER
+Parameter Name    = GainAlgNS145X17gain
+Parameter Address = 696
+Parameter Value   = 1
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 2.CHANNEL PAN RIGHT FADER
+Parameter Name    = GainAlgNS145X18gain
+Parameter Address = 697
+Parameter Value   = 1
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 2.CHANNEL COMP
+Parameter Name    = MultiChanRMSNoPostGainS300FullRangeExpGainAlg2points
+Parameter Address = 304
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x00, 0xCC, 0xD7, 0xCF, 
+0x00, 0x92, 0x9E, 0xAE, 
+0x00, 0x68, 0xF2, 0x16, 
+0x00, 0x4B, 0x1D, 0xDC, 
+0x00, 0x35, 0xC4, 0x1A, 
+0x00, 0x26, 0x7B, 0xE4, 
+0x00, 0x1B, 0x8B, 0xA9, 
+0x00, 0x13, 0x85, 0x1D, 
+0x00, 0x0D, 0xD1, 0xB0, 
+0x00, 0x09, 0xC8, 0x7D, 
+0x00, 0x06, 0xED, 0x0B, 
+0x00, 0x04, 0xE7, 0x38, 
+0x00, 0x03, 0x78, 0xA0, 
+0x00, 0x02, 0x75, 0x1A, 
+0x00, 0x01, 0xBC, 0xD7, 
+
+
+
+Cell Name         = CHANNEL 2.CHANNEL COMP
+Parameter Name    = MultiChanRMSNoPostGainS300FullRangeExpGainAlg2tc
+Parameter Address = 674
+Parameter Value   = 0.00058060884475708
+Parameter Data :
+0x00 ,	0x00 ,	0x26 ,	0x0D ,	
+
+
+
+Cell Name         = CHANNEL 2.CHANNEL COMP
+Parameter Name    = MultiChanRMSNoPostGainS300FullRangeExpGainAlg2hold
+Parameter Address = 675
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 2.CHANNEL COMP
+Parameter Name    = MultiChanRMSNoPostGainS300FullRangeExpGainAlg2decay
+Parameter Address = 676
+Parameter Value   = 2.14576721191406E-06
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x24 ,	
+
+
+
+Cell Name         = CHANNEL 2.THRESHOLD FADER
+Parameter Name    = GainAlgNS145X19gain
+Parameter Address = 658
+Parameter Value   = 0.125892519950867
+Parameter Data :
+0x00, 0x20, 0x3A, 0x7E, 
+
+
+
+Cell Name         = CHANNEL 2.COMP ATTENUATION
+Parameter Name    = ReadBackAlgNewSigma3002Value
+Parameter Address = 420
+Parameter Value   = 0
+Parameter Data :
+0x00, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 2.CHANNEL MIX LEVEL FADER
+Parameter Name    = GainAlgNS145X20gain
+Parameter Address = 690
+Parameter Value   = 1
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 2.CHANNEL RVB SEND FADER
+Parameter Name    = GainAlgNS145X21gain
+Parameter Address = 724
+Parameter Value   = 0.000100016593933105
+Parameter Data :
+0x00, 0x00, 0x06, 0x8E, 
+
+
+
+Cell Name         = CHANNEL 2.HIPASS 1
+Parameter Name    = EQS300MultiS3B2_1
+Parameter Address = 106
+Parameter Value   = 0.987920045852661
+Parameter Data :
+0x00 ,	0xFC ,	0xE8 ,	0x54 ,	
+
+
+
+Cell Name         = CHANNEL 2.HIPASS 1
+Parameter Name    = EQS300MultiS3B1_1
+Parameter Address = 107
+Parameter Value   = -1.97584009170532
+Parameter Data :
+0xFE ,	0x06 ,	0x2F ,	0x58 ,	
+
+
+
+Cell Name         = CHANNEL 2.HIPASS 1
+Parameter Name    = EQS300MultiS3B0_1
+Parameter Address = 108
+Parameter Value   = 0.987920045852661
+Parameter Data :
+0x00 ,	0xFC ,	0xE8 ,	0x54 ,	
+
+
+
+Cell Name         = CHANNEL 2.HIPASS 1
+Parameter Name    = EQS300MultiS3A2_1
+Parameter Address = 109
+Parameter Value   = -0.975983142852783
+Parameter Data :
+0xFF ,	0x06 ,	0x25 ,	0xF8 ,	
+
+
+
+Cell Name         = CHANNEL 2.HIPASS 1
+Parameter Name    = EQS300MultiS3A1_1
+Parameter Address = 110
+Parameter Value   = 1.97569704055786
+Parameter Data :
+0x01 ,	0xF9 ,	0xC7 ,	0x48 ,	
+
+
+
+Cell Name         = CHANNEL 2.HIPASS 2
+Parameter Name    = EQS300MultiS4B2_1
+Parameter Address = 126
+Parameter Value   = 0.98940521478653
+Parameter Data :
+0x00 ,	0xFD ,	0x49 ,	0xA9 ,	
+
+
+
+Cell Name         = CHANNEL 2.HIPASS 2
+Parameter Name    = EQS300MultiS4B1_1
+Parameter Address = 127
+Parameter Value   = -1.97881036996841
+Parameter Data :
+0xFE ,	0x05 ,	0x6C ,	0xAF ,	
+
+
+
+Cell Name         = CHANNEL 2.HIPASS 2
+Parameter Name    = EQS300MultiS4B0_1
+Parameter Address = 128
+Parameter Value   = 0.98940521478653
+Parameter Data :
+0x00 ,	0xFD ,	0x49 ,	0xA9 ,	
+
+
+
+Cell Name         = CHANNEL 2.HIPASS 2
+Parameter Name    = EQS300MultiS4A2_1
+Parameter Address = 129
+Parameter Value   = -0.978953659534454
+Parameter Data :
+0xFF ,	0x05 ,	0x63 ,	0x4B ,	
+
+
+
+Cell Name         = CHANNEL 2.HIPASS 2
+Parameter Name    = EQS300MultiS4A1_1
+Parameter Address = 130
+Parameter Value   = 1.97866714000702
+Parameter Data :
+0x01 ,	0xFA ,	0x89 ,	0xEE ,	
+
+
+
+Cell Name         = CHANNEL 2.HIPASS ON/OFF SWITCH
+Parameter Name    = monomuxSigma300ns3index
+Parameter Address = 650
+Parameter Value   = 0
+Parameter Data :
+0x00, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 2.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg2B2_1
+Parameter Address = 166
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 2.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg2B1_1
+Parameter Address = 167
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 2.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg2B0_1
+Parameter Address = 168
+Parameter Value   = 1
+Parameter Data :
+0x01 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 2.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg2A2_1
+Parameter Address = 169
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 2.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg2A1_1
+Parameter Address = 170
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 2.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg2B2_2
+Parameter Address = 171
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 2.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg2B1_2
+Parameter Address = 172
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 2.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg2B0_2
+Parameter Address = 173
+Parameter Value   = 1
+Parameter Data :
+0x01 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 2.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg2A2_2
+Parameter Address = 174
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 2.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg2A1_2
+Parameter Address = 175
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 2.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg2B2_3
+Parameter Address = 176
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 2.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg2B1_3
+Parameter Address = 177
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 2.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg2B0_3
+Parameter Address = 178
+Parameter Value   = 1
+Parameter Data :
+0x01 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 2.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg2A2_3
+Parameter Address = 179
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 2.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg2A1_3
+Parameter Address = 180
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 2.EQ ON/OFF SWITCH
+Parameter Name    = monomuxSigma300ns4index
+Parameter Address = 654
+Parameter Value   = 1
+Parameter Data :
+0x00, 0x00, 0x00, 0x01, 
+
+
+
+Cell Name         = CHANNEL 2.CHANNEL FX2 SEND FADER
+Parameter Name    = GainAlgNS145X22gain
+Parameter Address = 727
+Parameter Value   = 0.000100016593933105
+Parameter Data :
+0x00, 0x00, 0x06, 0x8E, 
+
+
+
+Cell Name         = CHANNEL 2.MUTE SWITCH
+Parameter Name    = MuteHWSlewAlgADAU145X1mute
+Parameter Address = 423
+Parameter Value   = 1
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 2.MUTE SWITCH
+Parameter Name    = MuteHWSlewAlgADAU145X1slew_mode
+Parameter Address = 422
+Parameter Value   = 8330
+Parameter Data :
+0x00, 0x00, 0x20, 0x8A, 
+
+
+
+Cell Name         = CHANNEL 2.AUX1 PRE/POST SWITCH
+Parameter Name    = monomuxSigma300ns5index
+Parameter Address = 710
+Parameter Value   = 0
+Parameter Data :
+0x00, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 2.AUX2 PRE/POST SWITCH
+Parameter Name    = monomuxSigma300ns6index
+Parameter Address = 711
+Parameter Value   = 0
+Parameter Data :
+0x00, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 2.RVB PRE/POST SWITCH
+Parameter Name    = monomuxSigma300ns7index
+Parameter Address = 708
+Parameter Value   = 1
+Parameter Data :
+0x00, 0x00, 0x00, 0x01, 
+
+
+
+Cell Name         = CHANNEL 2.FX2  PRE/POST SWITCH
+Parameter Name    = monomuxSigma300ns8index
+Parameter Address = 709
+Parameter Value   = 1
+Parameter Data :
+0x00, 0x00, 0x00, 0x01, 
+
+
+
+Cell Name         = CHANNEL 1.CHANNEL DC FILTER
+Parameter Name    = DCBlockAlgDblPrecS3001pole
+Parameter Address = 39
+Parameter Value   = 0.999899983406067
+Parameter Data :
+0x00, 0xFF, 0xF9, 0x72, 
+
+
+
+Cell Name         = CHANNEL 1.CHANNEL GAIN
+Parameter Name    = GainAlgNS145X1gain
+Parameter Address = 647
+Parameter Value   = 1
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 1.CHANNEL AUX1 SEND FADER
+Parameter Name    = GainAlgNS145X4gain
+Parameter Address = 731
+Parameter Value   = 0.000100016593933105
+Parameter Data :
+0x00, 0x00, 0x06, 0x8E, 
+
+
+
+Cell Name         = CHANNEL 1.CHANNEL AUX2 SEND FADER
+Parameter Name    = GainAlgNS145X5gain
+Parameter Address = 730
+Parameter Value   = 1.00135803222656E-05
+Parameter Data :
+0x00, 0x00, 0x00, 0xA8, 
+
+
+
+Cell Name         = CHANNEL 1.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3001TCONST
+Parameter Address = 82
+Parameter Value   = 0.00240141153335571
+Parameter Data :
+0x00 ,	0x00 ,	0x9D ,	0x61 ,	
+
+
+
+Cell Name         = CHANNEL 1.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3001hold
+Parameter Address = 83
+Parameter Value   = 480
+Parameter Data :
+0x00 ,	0x00 ,	0x01 ,	0xE0 ,	
+
+
+
+Cell Name         = CHANNEL 1.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3001decay
+Parameter Address = 84
+Parameter Value   = 0.000217020511627197
+Parameter Data :
+0x00 ,	0x00 ,	0x0E ,	0x39 ,	
+
+
+
+Cell Name         = CHANNEL 1.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3001X
+Parameter Address = 92
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 1.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3001X_lo
+Parameter Address = 93
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 1.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3001LinX
+Parameter Address = 94
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 1.CHANNEL INPUT VU METER
+Parameter Name    = SingleBandLevelDetS3001LinX_lo
+Parameter Address = 95
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 1.CHANNEL PAN LEFT FADER
+Parameter Name    = GainAlgNS145X7gain
+Parameter Address = 698
+Parameter Value   = 1
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 1.CHANNEL PAN RIGHT FADER
+Parameter Name    = GainAlgNS145X8gain
+Parameter Address = 699
+Parameter Value   = 1
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 1.CHANNEL COMP
+Parameter Name    = MultiChanRMSNoPostGainS300FullRangeExpGainAlg1points
+Parameter Address = 358
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x00, 0xCC, 0xD7, 0xCF, 
+0x00, 0x92, 0x9E, 0xAE, 
+0x00, 0x68, 0xF2, 0x16, 
+0x00, 0x4B, 0x1D, 0xDC, 
+0x00, 0x35, 0xC4, 0x1A, 
+0x00, 0x26, 0x7B, 0xE4, 
+0x00, 0x1B, 0x8B, 0xA9, 
+0x00, 0x13, 0x85, 0x1D, 
+0x00, 0x0D, 0xD1, 0xB0, 
+0x00, 0x09, 0xC8, 0x7D, 
+0x00, 0x06, 0xED, 0x0B, 
+0x00, 0x04, 0xE7, 0x38, 
+0x00, 0x03, 0x78, 0xA0, 
+0x00, 0x02, 0x75, 0x1A, 
+0x00, 0x01, 0xBC, 0xD7, 
+
+
+
+Cell Name         = CHANNEL 1.CHANNEL COMP
+Parameter Name    = MultiChanRMSNoPostGainS300FullRangeExpGainAlg1tc
+Parameter Address = 681
+Parameter Value   = 0.00058060884475708
+Parameter Data :
+0x00 ,	0x00 ,	0x26 ,	0x0D ,	
+
+
+
+Cell Name         = CHANNEL 1.CHANNEL COMP
+Parameter Name    = MultiChanRMSNoPostGainS300FullRangeExpGainAlg1hold
+Parameter Address = 682
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 1.CHANNEL COMP
+Parameter Name    = MultiChanRMSNoPostGainS300FullRangeExpGainAlg1decay
+Parameter Address = 683
+Parameter Value   = 2.14576721191406E-06
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x24 ,	
+
+
+
+Cell Name         = CHANNEL 1.THRESHOLD FADER
+Parameter Name    = GainAlgNS145X9gain
+Parameter Address = 659
+Parameter Value   = 0.125892519950867
+Parameter Data :
+0x00, 0x20, 0x3A, 0x7E, 
+
+
+
+Cell Name         = CHANNEL 1.COMP ATTENUATION
+Parameter Name    = ReadBackAlgNewSigma3001Value
+Parameter Address = 424
+Parameter Value   = 0
+Parameter Data :
+0x00, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 1.CHANNEL MIX LEVEL FADER
+Parameter Name    = GainAlgNS145X10gain
+Parameter Address = 691
+Parameter Value   = 1.25892543792725
+Parameter Data :
+0x01, 0x42, 0x48, 0xF0, 
+
+
+
+Cell Name         = CHANNEL 1.CHANNEL RVB SEND FADER
+Parameter Name    = GainAlgNS145X11gain
+Parameter Address = 729
+Parameter Value   = 2.50935554504395E-05
+Parameter Data :
+0x00, 0x00, 0x01, 0xA5, 
+
+
+
+Cell Name         = CHANNEL 1.HIPASS 1
+Parameter Name    = EQS300MultiS1B2_1
+Parameter Address = 111
+Parameter Value   = 0.987920045852661
+Parameter Data :
+0x00 ,	0xFC ,	0xE8 ,	0x54 ,	
+
+
+
+Cell Name         = CHANNEL 1.HIPASS 1
+Parameter Name    = EQS300MultiS1B1_1
+Parameter Address = 112
+Parameter Value   = -1.97584009170532
+Parameter Data :
+0xFE ,	0x06 ,	0x2F ,	0x58 ,	
+
+
+
+Cell Name         = CHANNEL 1.HIPASS 1
+Parameter Name    = EQS300MultiS1B0_1
+Parameter Address = 113
+Parameter Value   = 0.987920045852661
+Parameter Data :
+0x00 ,	0xFC ,	0xE8 ,	0x54 ,	
+
+
+
+Cell Name         = CHANNEL 1.HIPASS 1
+Parameter Name    = EQS300MultiS1A2_1
+Parameter Address = 114
+Parameter Value   = -0.975983142852783
+Parameter Data :
+0xFF ,	0x06 ,	0x25 ,	0xF8 ,	
+
+
+
+Cell Name         = CHANNEL 1.HIPASS 1
+Parameter Name    = EQS300MultiS1A1_1
+Parameter Address = 115
+Parameter Value   = 1.97569704055786
+Parameter Data :
+0x01 ,	0xF9 ,	0xC7 ,	0x48 ,	
+
+
+
+Cell Name         = CHANNEL 1.HIPASS 2
+Parameter Name    = EQS300MultiS2B2_1
+Parameter Address = 131
+Parameter Value   = 0.98940521478653
+Parameter Data :
+0x00 ,	0xFD ,	0x49 ,	0xA9 ,	
+
+
+
+Cell Name         = CHANNEL 1.HIPASS 2
+Parameter Name    = EQS300MultiS2B1_1
+Parameter Address = 132
+Parameter Value   = -1.97881036996841
+Parameter Data :
+0xFE ,	0x05 ,	0x6C ,	0xAF ,	
+
+
+
+Cell Name         = CHANNEL 1.HIPASS 2
+Parameter Name    = EQS300MultiS2B0_1
+Parameter Address = 133
+Parameter Value   = 0.98940521478653
+Parameter Data :
+0x00 ,	0xFD ,	0x49 ,	0xA9 ,	
+
+
+
+Cell Name         = CHANNEL 1.HIPASS 2
+Parameter Name    = EQS300MultiS2A2_1
+Parameter Address = 134
+Parameter Value   = -0.978953659534454
+Parameter Data :
+0xFF ,	0x05 ,	0x63 ,	0x4B ,	
+
+
+
+Cell Name         = CHANNEL 1.HIPASS 2
+Parameter Name    = EQS300MultiS2A1_1
+Parameter Address = 135
+Parameter Value   = 1.97866714000702
+Parameter Data :
+0x01 ,	0xFA ,	0x89 ,	0xEE ,	
+
+
+
+Cell Name         = CHANNEL 1.HIPASS ON/OFF SWITCH
+Parameter Name    = monomuxSigma300ns1index
+Parameter Address = 651
+Parameter Value   = 0
+Parameter Data :
+0x00, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 1.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg1B2_1
+Parameter Address = 181
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 1.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg1B1_1
+Parameter Address = 182
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 1.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg1B0_1
+Parameter Address = 183
+Parameter Value   = 1
+Parameter Data :
+0x01 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 1.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg1A2_1
+Parameter Address = 184
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 1.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg1A1_1
+Parameter Address = 185
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 1.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg1B2_2
+Parameter Address = 186
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 1.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg1B1_2
+Parameter Address = 187
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 1.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg1B0_2
+Parameter Address = 188
+Parameter Value   = 1
+Parameter Data :
+0x01 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 1.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg1A2_2
+Parameter Address = 189
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 1.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg1A1_2
+Parameter Address = 190
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 1.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg1B2_3
+Parameter Address = 191
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 1.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg1B1_3
+Parameter Address = 192
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 1.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg1B0_3
+Parameter Address = 193
+Parameter Value   = 1
+Parameter Data :
+0x01 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 1.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg1A2_3
+Parameter Address = 194
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 1.EQ
+Parameter Name    = General2ndOrderDPSigma300Alg1A1_3
+Parameter Address = 195
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = CHANNEL 1.EQ ON/OFF SWITCH
+Parameter Name    = monomuxSigma300ns2index
+Parameter Address = 655
+Parameter Value   = 1
+Parameter Data :
+0x00, 0x00, 0x00, 0x01, 
+
+
+
+Cell Name         = CHANNEL 1.CHANNEL FX2 SEND FADER
+Parameter Name    = GainAlgNS145X13gain
+Parameter Address = 728
+Parameter Value   = 0.000100016593933105
+Parameter Data :
+0x00, 0x00, 0x06, 0x8E, 
+
+
+
+Cell Name         = CHANNEL 1.MUTE SWITCH
+Parameter Name    = MuteHWSlewAlgADAU145X3mute
+Parameter Address = 427
+Parameter Value   = 1
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 1.MUTE SWITCH
+Parameter Name    = MuteHWSlewAlgADAU145X3slew_mode
+Parameter Address = 426
+Parameter Value   = 8330
+Parameter Data :
+0x00, 0x00, 0x20, 0x8A, 
+
+
+
+Cell Name         = CHANNEL 1.AUX1 PRE/POST SWITCH
+Parameter Name    = monomuxSigma300ns10index
+Parameter Address = 712
+Parameter Value   = 0
+Parameter Data :
+0x00, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 1.AUX2 PRE/POST SWITCH
+Parameter Name    = monomuxSigma300ns11index
+Parameter Address = 713
+Parameter Value   = 0
+Parameter Data :
+0x00, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = CHANNEL 1.RVB PRE/POST SWITCH
+Parameter Name    = monomuxSigma300ns12index
+Parameter Address = 714
+Parameter Value   = 1
+Parameter Data :
+0x00, 0x00, 0x00, 0x01, 
+
+
+
+Cell Name         = CHANNEL 1.FX2  PRE/POST SWITCH
+Parameter Name    = monomuxSigma300ns13index
+Parameter Address = 715
+Parameter Value   = 1
+Parameter Data :
+0x00, 0x00, 0x00, 0x01, 
+
+
+
+Cell Name         = MIX MASTER LEVEL FADER
+Parameter Name    = GainAlgNS145X2gain
+Parameter Address = 770
+Parameter Value   = 1
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = AUX1 MASTER LEVEL FADER
+Parameter Name    = GainAlgNS145X3gain
+Parameter Address = 751
+Parameter Value   = 1
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = LEFT OUT VU METER
+Parameter Name    = SingleBandLevelDetS3002TCONST
+Parameter Address = 586
+Parameter Value   = 0.00240141153335571
+Parameter Data :
+0x00 ,	0x00 ,	0x9D ,	0x61 ,	
+
+
+
+Cell Name         = LEFT OUT VU METER
+Parameter Name    = SingleBandLevelDetS3002hold
+Parameter Address = 587
+Parameter Value   = 480
+Parameter Data :
+0x00 ,	0x00 ,	0x01 ,	0xE0 ,	
+
+
+
+Cell Name         = LEFT OUT VU METER
+Parameter Name    = SingleBandLevelDetS3002decay
+Parameter Address = 588
+Parameter Value   = 0.000217020511627197
+Parameter Data :
+0x00 ,	0x00 ,	0x0E ,	0x39 ,	
+
+
+
+Cell Name         = LEFT OUT VU METER
+Parameter Name    = SingleBandLevelDetS3002X
+Parameter Address = 596
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = LEFT OUT VU METER
+Parameter Name    = SingleBandLevelDetS3002X_lo
+Parameter Address = 597
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = LEFT OUT VU METER
+Parameter Name    = SingleBandLevelDetS3002LinX
+Parameter Address = 598
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = LEFT OUT VU METER
+Parameter Name    = SingleBandLevelDetS3002LinX_lo
+Parameter Address = 599
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = RIGHT OUT VU METER
+Parameter Name    = SingleBandLevelDetS3003TCONST
+Parameter Address = 600
+Parameter Value   = 0.00240141153335571
+Parameter Data :
+0x00 ,	0x00 ,	0x9D ,	0x61 ,	
+
+
+
+Cell Name         = RIGHT OUT VU METER
+Parameter Name    = SingleBandLevelDetS3003hold
+Parameter Address = 601
+Parameter Value   = 480
+Parameter Data :
+0x00 ,	0x00 ,	0x01 ,	0xE0 ,	
+
+
+
+Cell Name         = RIGHT OUT VU METER
+Parameter Name    = SingleBandLevelDetS3003decay
+Parameter Address = 602
+Parameter Value   = 0.000217020511627197
+Parameter Data :
+0x00 ,	0x00 ,	0x0E ,	0x39 ,	
+
+
+
+Cell Name         = RIGHT OUT VU METER
+Parameter Name    = SingleBandLevelDetS3003X
+Parameter Address = 610
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = RIGHT OUT VU METER
+Parameter Name    = SingleBandLevelDetS3003X_lo
+Parameter Address = 611
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = RIGHT OUT VU METER
+Parameter Name    = SingleBandLevelDetS3003LinX
+Parameter Address = 612
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = RIGHT OUT VU METER
+Parameter Name    = SingleBandLevelDetS3003LinX_lo
+Parameter Address = 613
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = AUX2 MASTER LEVEL FADER
+Parameter Name    = GainAlgNS145X6gain
+Parameter Address = 752
+Parameter Value   = 1
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = RVB MODULE
+Parameter Name    = Reverb_S3001loop_gain
+Parameter Address = 24584
+Parameter Value   = 0.875
+Parameter Data :
+0x00 ,	0xE0 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = RVB MODULE
+Parameter Name    = Reverb_S3001loop_gain_half
+Parameter Address = 24585
+Parameter Value   = 0.4375
+Parameter Data :
+0x00 ,	0x70 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = RVB MODULE
+Parameter Name    = Reverb_S3001lp
+Parameter Address = 557
+Parameter Value   = 0.188000023365021
+Parameter Data :
+0x00, 0x30, 0x20, 0xC5, 
+
+
+
+Cell Name         = RVB MODULE
+Parameter Name    = Reverb_S3001bass_gain
+Parameter Address = 559
+Parameter Value   = -0.0625
+Parameter Data :
+0xFF, 0xF0, 0x00, 0x00, 
+
+
+
+Cell Name         = RVB MODULE
+Parameter Name    = Reverb_S3001coeffs
+Parameter Address = 488
+Parameter Data :
+0xFF, 0xFF, 0xE8, 0x84, 
+0xFF, 0xFF, 0x51, 0x8E, 
+0xFF, 0xFF, 0x64, 0xA1, 
+0x00, 0x00, 0x2B, 0x19, 
+0x00, 0x00, 0xB3, 0x6D, 
+0xFF, 0xFF, 0xFC, 0xEF, 
+0xFF, 0xFF, 0x0F, 0xCA, 
+0xFF, 0xFF, 0xAF, 0xDD, 
+0x00, 0x01, 0x23, 0x5F, 
+0x00, 0x00, 0xD0, 0xD2, 
+0xFF, 0xFE, 0xCB, 0x5A, 
+0xFF, 0xFE, 0x84, 0xE6, 
+0x00, 0x01, 0x0C, 0x59, 
+0x00, 0x02, 0x43, 0x57, 
+0xFF, 0xFF, 0x6D, 0x45, 
+0xFF, 0xFC, 0xEB, 0x48, 
+0xFF, 0xFF, 0xB2, 0x0D, 
+0x00, 0x03, 0xD1, 0x79, 
+0x00, 0x01, 0xA9, 0x73, 
+0xFF, 0xFB, 0xAF, 0x22, 
+0xFF, 0xFC, 0x6F, 0x7C, 
+0x00, 0x04, 0x5F, 0xA6, 
+0x00, 0x06, 0x19, 0x30, 
+0xFF, 0xFC, 0x49, 0xBF, 
+0xFF, 0xF6, 0x8F, 0x92, 
+0x00, 0x01, 0xDC, 0x60, 
+0x00, 0x0E, 0x17, 0xE0, 
+0x00, 0x02, 0x4B, 0x87, 
+0xFF, 0xEA, 0x0D, 0x22, 
+0xFF, 0xF2, 0xC7, 0x9E, 
+0x00, 0x2D, 0xA3, 0xCF, 
+0x00, 0x6A, 0x87, 0xD8, 
+0x00, 0x6A, 0x87, 0xD8, 
+0x00, 0x2D, 0xA3, 0xCF, 
+0xFF, 0xF2, 0xC7, 0x9E, 
+0xFF, 0xEA, 0x0D, 0x22, 
+0x00, 0x02, 0x4B, 0x87, 
+0x00, 0x0E, 0x17, 0xE0, 
+0x00, 0x01, 0xDC, 0x60, 
+0xFF, 0xF6, 0x8F, 0x92, 
+0xFF, 0xFC, 0x49, 0xBF, 
+0x00, 0x06, 0x19, 0x30, 
+0x00, 0x04, 0x5F, 0xA6, 
+0xFF, 0xFC, 0x6F, 0x7C, 
+0xFF, 0xFB, 0xAF, 0x22, 
+0x00, 0x01, 0xA9, 0x73, 
+0x00, 0x03, 0xD1, 0x79, 
+0xFF, 0xFF, 0xB2, 0x0D, 
+0xFF, 0xFC, 0xEB, 0x48, 
+0xFF, 0xFF, 0x6D, 0x45, 
+0x00, 0x02, 0x43, 0x57, 
+0x00, 0x01, 0x0C, 0x59, 
+0xFF, 0xFE, 0x84, 0xE6, 
+0xFF, 0xFE, 0xCB, 0x5A, 
+0x00, 0x00, 0xD0, 0xD2, 
+0x00, 0x01, 0x23, 0x5F, 
+0x00, 0x00, 0x50, 0x23, 
+0xFF, 0xFF, 0x0F, 0xCA, 
+0xFF, 0xFF, 0xFC, 0xEF, 
+0xFF, 0xFF, 0x4C, 0x93, 
+0x00, 0x00, 0x2B, 0x19, 
+0x00, 0x00, 0x9B, 0x5F, 
+0xFF, 0xFF, 0x51, 0x8E, 
+0xFF, 0xFF, 0xE8, 0x84, 
+0x00, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = RVB MODULE
+Parameter Name    = Reverb_S3001dif_sin
+Parameter Address = 553
+Parameter Value   = 0.70710700750351
+Parameter Data :
+0x00 ,	0xB5 ,	0x04 ,	0xF7 ,	
+
+
+
+Cell Name         = RVB MODULE
+Parameter Name    = Reverb_S3001dif_cos
+Parameter Address = 554
+Parameter Value   = 0.70710700750351
+Parameter Data :
+0x00 ,	0xB5 ,	0x04 ,	0xF7 ,	
+
+
+
+Cell Name         = RVB MODULE
+Parameter Name    = Reverb_S3001ap
+Parameter Address = 555
+Parameter Value   = 0.5
+Parameter Data :
+0x00 ,	0x80 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = RVB MODULE
+Parameter Name    = Reverb_S3001c707
+Parameter Address = 556
+Parameter Value   = 0.70710700750351
+Parameter Data :
+0x00 ,	0xB5 ,	0x04 ,	0xF7 ,	
+
+
+
+Cell Name         = RVB MODULE
+Parameter Name    = Reverb_S3001bass_lp
+Parameter Address = 558
+Parameter Value   = 0.976999998092651
+Parameter Data :
+0x00 ,	0xFA ,	0x1C ,	0xAC ,	
+
+
+
+Cell Name         = RVB MODULE
+Parameter Name    = Reverb_S3001offset_s
+Parameter Address = 560
+Parameter Data :
+0x00, 0x00, 0x00, 0x00, 
+0x00, 0x40, 0x00, 0x00, 
+
+
+
+Cell Name         = RVB MODULE
+Parameter Name    = Reverb_S3001mask
+Parameter Address = 562
+Parameter Value   = 16777214
+Parameter Data :
+0x00 ,	0xFF ,	0xFF ,	0xFE ,	
+
+
+
+Cell Name         = RVB MODULE
+Parameter Name    = Reverb_S3001tscale
+Parameter Address = 563
+Parameter Value   = 0.0001220703125
+Parameter Data :
+0x00 ,	0x00 ,	0x08 ,	0x00 ,	
+
+
+
+Cell Name         = RVB MODULE
+Parameter Name    = Reverb_S3001lfo_inc
+Parameter Address = 564
+Parameter Value   = 502
+Parameter Data :
+0x00 ,	0x00 ,	0x01 ,	0xF6 ,	
+
+
+
+Cell Name         = RVB MODULE
+Parameter Name    = Reverb_S3001half_excurs
+Parameter Address = 565
+Parameter Value   = 49152
+Parameter Data :
+0x00 ,	0x00 ,	0xC0 ,	0x00 ,	
+
+
+
+Cell Name         = LEFT BUSS SUM
+Parameter Name    = SingleCtrlMixerS3001gain
+Parameter Address = 761
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = RIGHT BUSS SUMM
+Parameter Name    = SingleCtrlMixerS3002gain
+Parameter Address = 765
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = RVB MIX LEVEL FADER
+Parameter Name    = GainAlgNS145X12gain
+Parameter Address = 760
+Parameter Value   = 1
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = AUX1 BUSS SUM
+Parameter Name    = SingleCtrlMixerS3003gain
+Parameter Address = 732
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = AUX2 BUSS SUM
+Parameter Name    = SingleCtrlMixerS3004gain
+Parameter Address = 736
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = RVB BUSS SUM
+Parameter Name    = SingleCtrlMixerS3005gain
+Parameter Address = 740
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = FX2 BUSS SUM
+Parameter Name    = SingleCtrlMixerS3006gain
+Parameter Address = 744
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = MIX MASTER EQ
+Parameter Name    = General2ndOrderDPSigma300Alg5B2_1
+Parameter Address = 576
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = MIX MASTER EQ
+Parameter Name    = General2ndOrderDPSigma300Alg5B1_1
+Parameter Address = 577
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = MIX MASTER EQ
+Parameter Name    = General2ndOrderDPSigma300Alg5B0_1
+Parameter Address = 578
+Parameter Value   = 1
+Parameter Data :
+0x01 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = MIX MASTER EQ
+Parameter Name    = General2ndOrderDPSigma300Alg5A2_1
+Parameter Address = 579
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = MIX MASTER EQ
+Parameter Name    = General2ndOrderDPSigma300Alg5A1_1
+Parameter Address = 580
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = MIX MASTER EQ
+Parameter Name    = General2ndOrderDPSigma300Alg5B2_2
+Parameter Address = 24591
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = MIX MASTER EQ
+Parameter Name    = General2ndOrderDPSigma300Alg5B1_2
+Parameter Address = 24592
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = MIX MASTER EQ
+Parameter Name    = General2ndOrderDPSigma300Alg5B0_2
+Parameter Address = 24593
+Parameter Value   = 1
+Parameter Data :
+0x01 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = MIX MASTER EQ
+Parameter Name    = General2ndOrderDPSigma300Alg5A2_2
+Parameter Address = 24594
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = MIX MASTER EQ
+Parameter Name    = General2ndOrderDPSigma300Alg5A1_2
+Parameter Address = 24595
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = MIX MASTER EQ
+Parameter Name    = General2ndOrderDPSigma300Alg5B2_3
+Parameter Address = 581
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = MIX MASTER EQ
+Parameter Name    = General2ndOrderDPSigma300Alg5B1_3
+Parameter Address = 582
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = MIX MASTER EQ
+Parameter Name    = General2ndOrderDPSigma300Alg5B0_3
+Parameter Address = 583
+Parameter Value   = 1
+Parameter Data :
+0x01 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = MIX MASTER EQ
+Parameter Name    = General2ndOrderDPSigma300Alg5A2_3
+Parameter Address = 584
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = MIX MASTER EQ
+Parameter Name    = General2ndOrderDPSigma300Alg5A1_3
+Parameter Address = 585
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = AUX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg6B2_1
+Parameter Address = 428
+Parameter Value   = 0.986684918403625
+Parameter Data :
+0x00 ,	0xFC ,	0x97 ,	0x62 ,	
+
+
+
+Cell Name         = AUX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg6B1_1
+Parameter Address = 429
+Parameter Value   = -1.9870970249176
+Parameter Data :
+0xFE ,	0x03 ,	0x4D ,	0x9C ,	
+
+
+
+Cell Name         = AUX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg6B0_1
+Parameter Address = 430
+Parameter Value   = 1.00076562166214
+Parameter Data :
+0x01 ,	0x00 ,	0x32 ,	0x2D ,	
+
+
+
+Cell Name         = AUX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg6A2_1
+Parameter Address = 431
+Parameter Value   = -0.987450540065765
+Parameter Data :
+0xFF ,	0x03 ,	0x36 ,	0x71 ,	
+
+
+
+Cell Name         = AUX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg6A1_1
+Parameter Address = 432
+Parameter Value   = 1.9870970249176
+Parameter Data :
+0x01 ,	0xFC ,	0xB2 ,	0x64 ,	
+
+
+
+Cell Name         = AUX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg6B2_2
+Parameter Address = 433
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = AUX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg6B1_2
+Parameter Address = 434
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = AUX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg6B0_2
+Parameter Address = 435
+Parameter Value   = 1
+Parameter Data :
+0x01 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = AUX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg6A2_2
+Parameter Address = 436
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = AUX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg6A1_2
+Parameter Address = 437
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = AUX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg6B2_3
+Parameter Address = 438
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = AUX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg6B1_3
+Parameter Address = 439
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = AUX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg6B0_3
+Parameter Address = 440
+Parameter Value   = 1
+Parameter Data :
+0x01 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = AUX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg6A2_3
+Parameter Address = 441
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = AUX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg6A1_3
+Parameter Address = 442
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = AUX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg7B2_1
+Parameter Address = 443
+Parameter Value   = 0.986684918403625
+Parameter Data :
+0x00 ,	0xFC ,	0x97 ,	0x62 ,	
+
+
+
+Cell Name         = AUX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg7B1_1
+Parameter Address = 444
+Parameter Value   = -1.9870970249176
+Parameter Data :
+0xFE ,	0x03 ,	0x4D ,	0x9C ,	
+
+
+
+Cell Name         = AUX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg7B0_1
+Parameter Address = 445
+Parameter Value   = 1.00076562166214
+Parameter Data :
+0x01 ,	0x00 ,	0x32 ,	0x2D ,	
+
+
+
+Cell Name         = AUX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg7A2_1
+Parameter Address = 446
+Parameter Value   = -0.987450540065765
+Parameter Data :
+0xFF ,	0x03 ,	0x36 ,	0x71 ,	
+
+
+
+Cell Name         = AUX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg7A1_1
+Parameter Address = 447
+Parameter Value   = 1.9870970249176
+Parameter Data :
+0x01 ,	0xFC ,	0xB2 ,	0x64 ,	
+
+
+
+Cell Name         = AUX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg7B2_2
+Parameter Address = 448
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = AUX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg7B1_2
+Parameter Address = 449
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = AUX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg7B0_2
+Parameter Address = 450
+Parameter Value   = 1
+Parameter Data :
+0x01 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = AUX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg7A2_2
+Parameter Address = 451
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = AUX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg7A1_2
+Parameter Address = 452
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = AUX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg7B2_3
+Parameter Address = 453
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = AUX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg7B1_3
+Parameter Address = 454
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = AUX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg7B0_3
+Parameter Address = 455
+Parameter Value   = 1
+Parameter Data :
+0x01 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = AUX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg7A2_3
+Parameter Address = 456
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = AUX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg7A1_3
+Parameter Address = 457
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = RVB EQ
+Parameter Name    = General2ndOrderDPSigma300Alg8B2_1
+Parameter Address = 566
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = RVB EQ
+Parameter Name    = General2ndOrderDPSigma300Alg8B1_1
+Parameter Address = 567
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = RVB EQ
+Parameter Name    = General2ndOrderDPSigma300Alg8B0_1
+Parameter Address = 568
+Parameter Value   = 1
+Parameter Data :
+0x01 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = RVB EQ
+Parameter Name    = General2ndOrderDPSigma300Alg8A2_1
+Parameter Address = 569
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = RVB EQ
+Parameter Name    = General2ndOrderDPSigma300Alg8A1_1
+Parameter Address = 570
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = RVB EQ
+Parameter Name    = General2ndOrderDPSigma300Alg8B2_2
+Parameter Address = 24586
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = RVB EQ
+Parameter Name    = General2ndOrderDPSigma300Alg8B1_2
+Parameter Address = 24587
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = RVB EQ
+Parameter Name    = General2ndOrderDPSigma300Alg8B0_2
+Parameter Address = 24588
+Parameter Value   = 1
+Parameter Data :
+0x01 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = RVB EQ
+Parameter Name    = General2ndOrderDPSigma300Alg8A2_2
+Parameter Address = 24589
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = RVB EQ
+Parameter Name    = General2ndOrderDPSigma300Alg8A1_2
+Parameter Address = 24590
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = RVB EQ
+Parameter Name    = General2ndOrderDPSigma300Alg8B2_3
+Parameter Address = 571
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = RVB EQ
+Parameter Name    = General2ndOrderDPSigma300Alg8B1_3
+Parameter Address = 572
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = RVB EQ
+Parameter Name    = General2ndOrderDPSigma300Alg8B0_3
+Parameter Address = 573
+Parameter Value   = 1
+Parameter Data :
+0x01 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = RVB EQ
+Parameter Name    = General2ndOrderDPSigma300Alg8A2_3
+Parameter Address = 574
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = RVB EQ
+Parameter Name    = General2ndOrderDPSigma300Alg8A1_3
+Parameter Address = 575
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = RVB/FX1 SWITCH
+Parameter Name    = monoDemuxAlgns1vol0
+Parameter Address = 614
+Parameter Value   = 0
+Parameter Data :
+0x00, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = RVB/FX1 SWITCH
+Parameter Name    = monoDemuxAlgns1vol1
+Parameter Address = 615
+Parameter Value   = 1
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = RVB MUTE SWITCH
+Parameter Name    = MuteNoSlewADAU145XAlg5mute
+Parameter Address = 759
+Parameter Value   = 1
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x01 ,	
+
+
+
+Cell Name         = MIX MASTER MUTE SWITCH
+Parameter Name    = MuteNoSlewADAU145XAlg6mute
+Parameter Address = 769
+Parameter Value   = 1
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x01 ,	
+
+
+
+Cell Name         = FX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg9B2_1
+Parameter Address = 458
+Parameter Value   = 0.986684918403625
+Parameter Data :
+0x00 ,	0xFC ,	0x97 ,	0x62 ,	
+
+
+
+Cell Name         = FX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg9B1_1
+Parameter Address = 459
+Parameter Value   = -1.9870970249176
+Parameter Data :
+0xFE ,	0x03 ,	0x4D ,	0x9C ,	
+
+
+
+Cell Name         = FX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg9B0_1
+Parameter Address = 460
+Parameter Value   = 1.00076562166214
+Parameter Data :
+0x01 ,	0x00 ,	0x32 ,	0x2D ,	
+
+
+
+Cell Name         = FX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg9A2_1
+Parameter Address = 461
+Parameter Value   = -0.987450540065765
+Parameter Data :
+0xFF ,	0x03 ,	0x36 ,	0x71 ,	
+
+
+
+Cell Name         = FX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg9A1_1
+Parameter Address = 462
+Parameter Value   = 1.9870970249176
+Parameter Data :
+0x01 ,	0xFC ,	0xB2 ,	0x64 ,	
+
+
+
+Cell Name         = FX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg9B2_2
+Parameter Address = 463
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = FX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg9B1_2
+Parameter Address = 464
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = FX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg9B0_2
+Parameter Address = 465
+Parameter Value   = 1
+Parameter Data :
+0x01 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = FX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg9A2_2
+Parameter Address = 466
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = FX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg9A1_2
+Parameter Address = 467
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = FX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg9B2_3
+Parameter Address = 468
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = FX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg9B1_3
+Parameter Address = 469
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = FX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg9B0_3
+Parameter Address = 470
+Parameter Value   = 1
+Parameter Data :
+0x01 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = FX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg9A2_3
+Parameter Address = 471
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = FX2 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg9A1_3
+Parameter Address = 472
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = FX2 MIX LEVEL FADER
+Parameter Name    = GainAlgNS145X41gain
+Parameter Address = 753
+Parameter Value   = 1
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = FX2 MUTE SWITCH
+Parameter Name    = MuteNoSlewADAU145XAlg4mute
+Parameter Address = 750
+Parameter Value   = 1
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x01 ,	
+
+
+
+Cell Name         = AUX2 MUTE SWITCH
+Parameter Name    = MuteNoSlewADAU145XAlg2mute
+Parameter Address = 749
+Parameter Value   = 1
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x01 ,	
+
+
+
+Cell Name         = AUX1 MUTE SWITCH
+Parameter Name    = MuteNoSlewADAU145XAlg1mute
+Parameter Address = 748
+Parameter Value   = 1
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x01 ,	
+
+
+
+Cell Name         = FX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg10B2_1
+Parameter Address = 473
+Parameter Value   = 0.986684918403625
+Parameter Data :
+0x00 ,	0xFC ,	0x97 ,	0x62 ,	
+
+
+
+Cell Name         = FX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg10B1_1
+Parameter Address = 474
+Parameter Value   = -1.9870970249176
+Parameter Data :
+0xFE ,	0x03 ,	0x4D ,	0x9C ,	
+
+
+
+Cell Name         = FX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg10B0_1
+Parameter Address = 475
+Parameter Value   = 1.00076562166214
+Parameter Data :
+0x01 ,	0x00 ,	0x32 ,	0x2D ,	
+
+
+
+Cell Name         = FX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg10A2_1
+Parameter Address = 476
+Parameter Value   = -0.987450540065765
+Parameter Data :
+0xFF ,	0x03 ,	0x36 ,	0x71 ,	
+
+
+
+Cell Name         = FX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg10A1_1
+Parameter Address = 477
+Parameter Value   = 1.9870970249176
+Parameter Data :
+0x01 ,	0xFC ,	0xB2 ,	0x64 ,	
+
+
+
+Cell Name         = FX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg10B2_2
+Parameter Address = 478
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = FX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg10B1_2
+Parameter Address = 479
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = FX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg10B0_2
+Parameter Address = 480
+Parameter Value   = 1
+Parameter Data :
+0x01 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = FX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg10A2_2
+Parameter Address = 481
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = FX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg10A1_2
+Parameter Address = 482
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = FX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg10B2_3
+Parameter Address = 483
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = FX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg10B1_3
+Parameter Address = 484
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = FX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg10B0_3
+Parameter Address = 485
+Parameter Value   = 1
+Parameter Data :
+0x01 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = FX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg10A2_3
+Parameter Address = 486
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = FX1 EQ
+Parameter Name    = General2ndOrderDPSigma300Alg10A1_3
+Parameter Address = 487
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = FX1 MIX LEVEL FADER
+Parameter Name    = GainAlgNS145X42gain
+Parameter Address = 758
+Parameter Value   = 1
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = FX1 MUTE SWITCH_4
+Parameter Name    = MuteNoSlewADAU145XAlg3mute
+Parameter Address = 757
+Parameter Value   = 1
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x01 ,	
+
+
+
+Cell Name         = None - Framework
+Parameter Name    = __SafeLoad_Module__data_SafeLoad
+Parameter Address = 24576
+Parameter Data :
+0x00, 0x00, 0x00, 0x00, 
+0x00, 0x00, 0x00, 0x00, 
+0x00, 0x00, 0x00, 0x00, 
+0x00, 0x00, 0x00, 0x00, 
+0x00, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = None - Framework
+Parameter Name    = __SafeLoad_Module__address_SafeLoad
+Parameter Address = 24581
+Parameter Value   = 0
+Parameter Data :
+0x00, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = None - Framework
+Parameter Name    = __SafeLoad_Module__num_SafeLoad
+Parameter Address = 24582
+Parameter Value   = 0
+Parameter Data :
+0x00, 0x00, 0x00, 0x00, 
+
+
+

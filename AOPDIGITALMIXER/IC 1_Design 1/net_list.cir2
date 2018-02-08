@@ -1,0 +1,12 @@
+0 ICSigma100In1 O_C0_A0_P1_out Link2 O_C0_A0_P2_out Link4 O_C0_A0_P3_out Link7
+1 DCBlockAlgDoublePrec1 I_C50_A0_P1_in Link2 O_C50_A0_P2_out Link3
+2 DCBlockAlgDoublePrec2 I_C57_A0_P1_in Link4 O_C57_A0_P2_out Link5
+3 Gain1940AlgNS3 I_C72_A0_P1_in Link7 O_C72_A0_P2_out Link8
+4 Gain1940AlgNS1 I_C15_A0_P1_in Link3 O_C15_A0_P2_out Link0
+5 Gain1940AlgNS2 I_C15_A1_P1_in Link5 O_C15_A1_P2_out Link1
+6 SingleBandLevelDetwOutDisplay2ndGen3 I_C79_A0_P1_in Link8 O_C79_A0_P2_out Link9
+7 SingleBandLevelDetwOutDisplay2ndGen1 I_C24_A0_P1_in Link0 O_C24_A0_P2_out Link6
+8 SingleBandLevelDetwOutDisplay2ndGen2 I_C27_A0_P1_in Link1 O_C27_A0_P2_out Link10
+9 SingleCtrlMixer19401 I_C64_A0_P2_in Link6 I_C64_A0_P3_in Link9 O_C64_A0_P1_out Link11
+10 ICSigma100Out2 I_C13_A0_P1_in Link10
+11 ICSigma100Out1 I_C11_A0_P1_in Link11
